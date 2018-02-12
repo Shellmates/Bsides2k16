@@ -1,0 +1,4 @@
+Simple Xor is a cypher. Retreive the key and read carrefully.
+Hint : What is her name? 
+
+
